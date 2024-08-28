@@ -3,6 +3,8 @@
  - Run code ini di VPS kalian `wget https://github.com/Adefebrian/1Click-Garap-Nillion/raw/main/nil.sh -O nil.sh && chmod +x nil.sh && ./nil.sh` 
  - Tunggu selama 1 jam, dan pastikan sudah mengisi address accuser yang ada diterminal melalui web [Faucet Nillion(https://faucet.testnet.nillion.com/)
  - Done
+
+   Source : https://x.com/nillionnetwork/status/1828448794528100696
    
    ## Ingin support Airdrop Sultan? 
    Join Airdrop Sultan Indonesia 
