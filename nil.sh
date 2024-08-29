@@ -27,7 +27,7 @@ echo -e "\nWaiting for 30-60 minutes. Please wait until the process completes be
 sleep 3600  
 
 echo "Running the Accuser command..."
-docker run -v $(pwd)/nillion/accuser:/var/tmp nillion/retailtoken-accuser:v1.0.0 accuse --rpc-endpoint "http://65.109.222.111:26657" --block-start 5052768
+docker run -v $(pwd)/nillion/accuser:/var/tmp nillion/retailtoken-accuser:v1.0.0 accuse --rpc-endpoint "http://65.109.222.111:26657" --block-start 5095514
 
 read -p "Do you want to backup your wallet? (y/n): " backup_wallet
 if [ "$backup_wallet" == "y" ]; then
